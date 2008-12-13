@@ -1,0 +1,27 @@
+Acme-CPANAuthors-Taiwanese version 0.0.1
+
+This class provides a hash of Taiwan CPAN authors' PAUSE ID and name to
+the C<Acme::CPANAuthors> module.
+
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Makefile.PL
+    make
+    make test
+    make install
+
+
+
+DEPENDENCIES
+
+L<Acme::CPANAuthors>
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008, Kang-min Liu
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
