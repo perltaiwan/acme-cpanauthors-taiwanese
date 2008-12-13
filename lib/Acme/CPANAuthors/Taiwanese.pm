@@ -29,7 +29,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::Taiwanese - We are Taiwanese CPAN AUthors!
+Acme::CPANAuthors::Taiwanese - We are Taiwanese CPAN Authors!
 
 =head1 VERSION
 
@@ -54,6 +54,10 @@ See documentation for L<Acme::CPANAuthors> for more details.
 =head1 DEPENDENCIES
 
 L<Acme::CPANAuthors>
+
+=head1 DEVELOPMENT
+
+Git repository: http://github.com/gugod/acme-cpanauthors-taiwanese/
 
 =head1 BUGS AND LIMITATIONS
 
