@@ -3,5 +3,5 @@ steps = FindVersion, ChangeVersion, CheckChangeLog, DistTest, MakeDist, UploadCP
 
 CheckChangeLog.files = Changes
 twitter.config = /Users/gugod/.twitterrc
-twitter.distname = Rubyish
+twitter.distname = Acme-CPANAuthors-Taiwanese
 twitter.message = Shipped %d %v - soon at %u
