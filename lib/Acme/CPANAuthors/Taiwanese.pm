@@ -20,7 +20,7 @@ use Acme::CPANAuthors::Register (
     MINDOS   => "鄭智中",
     PENK     => "陳品勳",
     SHELLING => "許家瑋",
-    VICTOR   => "謝毓庭"
+    VICTOR   => "謝毓庭",
     XERN     => "林永忠",
     YMLEE    => "李彥明",
     YRCHEN   => "陳禹任",
