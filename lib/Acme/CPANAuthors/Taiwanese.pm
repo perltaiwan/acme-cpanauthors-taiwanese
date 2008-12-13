@@ -1,4 +1,4 @@
-package Acme::CPANAuthors::Canadian;
+package Acme::CPANAuthors::Taiwanese;
 
 use warnings;
 use strict;
