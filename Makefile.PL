@@ -10,4 +10,6 @@ requires
     'Acme::CPANAuthors::Register' => 0,
     'Acme::CPANAuthors' => '0.06';
 
+extra_tests;
+
 WriteAll;

@@ -1,4 +1,4 @@
-Acme-CPANAuthors-Taiwanese version 0.0.1
+Acme-CPANAuthors-Taiwanese version 0.03
 
 This class provides a hash of Taiwan CPAN authors' PAUSE ID and name to
 the C<Acme::CPANAuthors> module.
@@ -12,7 +12,6 @@ To install this module, run the following commands:
     make
     make test
     make install
-
 
 
 DEPENDENCIES
