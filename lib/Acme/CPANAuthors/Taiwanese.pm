@@ -4,26 +4,27 @@ use warnings;
 use strict;
 use utf8;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Acme::CPANAuthors::Register (
-    AUDREYT  => "唐鳳",
-    CLKAO    => "高嘉良",
-    CLSUNG   => "宋政隆",
-    GUGOD    => "劉康民",
-    HCCHIEN  => "簡信昌",
-    IJLIAO   => "廖英傑",
-    IMACAT   => "依瑪貓",
-    KCWU     => "吳光哲",
-    KENSHAN  => "單中杰",
-    LUKHNOS  => "劉燈",
-    MINDOS   => "鄭智中",
-    PENK     => "陳品勳",
-    SHELLING => "許家瑋",
-    VICTOR   => "謝毓庭",
-    XERN     => "林永忠",
-    YMLEE    => "李彥明",
-    YRCHEN   => "陳禹任",
+    AUDREYT   => "唐鳳",
+    CLKAO     => "高嘉良",
+    CLSUNG    => "宋政隆",
+    CORNELIUS => "林佑安",
+    GUGOD     => "劉康民",
+    HCCHIEN   => "簡信昌",
+    IJLIAO    => "廖英傑",
+    IMACAT    => "依瑪貓",
+    KCWU      => "吳光哲",
+    KENSHAN   => "單中杰",
+    LUKHNOS   => "劉燈",
+    MINDOS    => "鄭智中",
+    PENK      => "陳品勳",
+    SHELLING  => "許家瑋",
+    VICTOR    => "謝毓庭",
+    XERN      => "林永忠",
+    YMLEE     => "李彥明",
+    YRCHEN    => "陳禹任",
 );
 
 1;
