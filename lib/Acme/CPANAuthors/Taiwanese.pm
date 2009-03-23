@@ -8,6 +8,7 @@ our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
     AUDREYT   => "唐鳳",
+    BLUET     => "練喆明",
     CLKAO     => "高嘉良",
     CLSUNG    => "宋政隆",
     CORNELIUS => "林佑安",
