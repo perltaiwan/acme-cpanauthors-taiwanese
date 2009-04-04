@@ -43,7 +43,7 @@ This document describes Acme::CPANAuthors::Taiwanese version 0.0.1
 =head1 SYNOPSIS
 
     use Acme::CPANAuthors;
-    $authors->Acme::CPANAuthors->new('Taiwanese');
+    $authors = Acme::CPANAuthors->new('Taiwanese');
 
     $number   = $authors->count;
     @ids      = $authors->id;
