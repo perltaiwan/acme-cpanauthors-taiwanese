@@ -24,6 +24,7 @@ use Acme::CPANAuthors::Register (
     MINDOS    => "鄭智中",
     PENK      => "陳品勳",
     SHELLING  => "許家瑋",
+    SNOWFLY   => "飄然似雪",
     VICTOR    => "謝毓庭",
     XERN      => "林永忠",
     YMLEE     => "李彥明",
