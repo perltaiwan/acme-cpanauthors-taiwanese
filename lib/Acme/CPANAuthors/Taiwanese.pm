@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use utf8;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use Acme::CPANAuthors::Register (
     AUDREYT   => "唐鳳",
