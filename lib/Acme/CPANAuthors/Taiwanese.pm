@@ -8,19 +8,23 @@ our $VERSION = '0.03';
 
 use Acme::CPANAuthors::Register (
     AUDREYT   => "唐鳳",
+    BLUET     => "練喆明",
     CLKAO     => "高嘉良",
     CLSUNG    => "宋政隆",
     CORNELIUS => "林佑安",
     GUGOD     => "劉康民",
+    GSLIN     => "林嘉軒",
     HCCHIEN   => "簡信昌",
     IJLIAO    => "廖英傑",
     IMACAT    => "依瑪貓",
     KCWU      => "吳光哲",
+    KENWU     => "莉洛",
     KENSHAN   => "單中杰",
     LUKHNOS   => "劉燈",
     MINDOS    => "鄭智中",
     PENK      => "陳品勳",
     SHELLING  => "許家瑋",
+    SNOWFLY   => "飄然似雪",
     VICTOR    => "謝毓庭",
     XERN      => "林永忠",
     YMLEE     => "李彥明",
@@ -42,7 +46,7 @@ This document describes Acme::CPANAuthors::Taiwanese version 0.0.1
 =head1 SYNOPSIS
 
     use Acme::CPANAuthors;
-    $authors->Acme::CPANAuthors->new('Taiwanese');
+    $authors = Acme::CPANAuthors->new('Taiwanese');
 
     $number   = $authors->count;
     @ids      = $authors->id;
