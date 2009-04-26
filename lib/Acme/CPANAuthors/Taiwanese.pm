@@ -13,10 +13,12 @@ use Acme::CPANAuthors::Register (
     CLSUNG    => "宋政隆",
     CORNELIUS => "林佑安",
     GUGOD     => "劉康民",
+    GSLIN     => "林嘉軒",  # XXX: is this correct ?
     HCCHIEN   => "簡信昌",
     IJLIAO    => "廖英傑",
     IMACAT    => "依瑪貓",
     KCWU      => "吳光哲",
+    KENWU     => "莉洛",
     KENSHAN   => "單中杰",
     LUKHNOS   => "劉燈",
     MINDOS    => "鄭智中",
