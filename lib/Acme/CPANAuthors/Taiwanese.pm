@@ -12,6 +12,7 @@ use Acme::CPANAuthors::Register (
     CLKAO     => "高嘉良",
     CLSUNG    => "宋政隆",
     CORNELIUS => "林佑安",
+    DRBEAN    => "高來圭",
     GUGOD     => "劉康民",
     GSLIN     => "林嘉軒",
     HCCHIEN   => "簡信昌",
