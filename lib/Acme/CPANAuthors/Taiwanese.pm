@@ -14,6 +14,7 @@ use Acme::CPANAuthors::Register (
     CINDY     => "Cindy Wang",
     CORNELIUS => "林佑安",
     DRBEAN    => "高來圭",
+    DRYMAN    => "陳仁乾",
     GSLIN     => "林嘉軒",
     GUGOD     => "劉康民",
     HCCHIEN   => "簡信昌",
