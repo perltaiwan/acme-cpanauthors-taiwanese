@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
     BLUET     => "練喆明",
     CLKAO     => "高嘉良",
     CLSUNG    => "宋政隆",
+    CINDY     => "Cindy Wang",
     CORNELIUS => "林佑安",
     DRBEAN    => "高來圭",
     GSLIN     => "林嘉軒",
