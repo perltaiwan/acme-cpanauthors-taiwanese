@@ -1,10 +1,9 @@
 package Acme::CPANAuthors::Taiwanese;
-
-use warnings;
+# ABSTRACT: We are Taiwanese CPAN Authors!
+use 5.008;
 use strict;
+use warnings;
 use utf8;
-
-our $VERSION = '0.07';
 
 use Acme::CPANAuthors::Register (
     AUDREYT   => "唐鳳",
@@ -41,11 +40,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::Taiwanese - We are Taiwanese CPAN Authors!
-
-=head1 VERSION
-
-This document describes Acme::CPANAuthors::Taiwanese version 0.0.1
+Acme::CPANAuthors::Taiwanese
 
 =head1 SYNOPSIS
 
@@ -85,7 +80,7 @@ Kang-min Liu  C<< <gugod@gugod.org> >>
 
 =head1 LICENCE AND COPYRIGHT
 
-Copyright (c) 2008, Kang-min Liu C<< <gugod@gugod.org> >>.
+Copyright (c) 2008,2009,2010,2011 Kang-min Liu C<< <gugod@gugod.org> >>.
 
 This module is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself. See L<perlartistic>.
