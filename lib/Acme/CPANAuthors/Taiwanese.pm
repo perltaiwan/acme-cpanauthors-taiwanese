@@ -40,7 +40,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::Taiwanese
+Acme::CPANAuthors::Taiwanese - We are Taiwanese CPAN Authors!
 
 =head1 SYNOPSIS
 
